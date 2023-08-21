@@ -2,19 +2,19 @@
 
 <h1 align="center">Namaste... 👋, I'm Prathamesh patil</h1>
 <h3 align="center">A passionate Artificial Intelligence and Data scientist enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/19497668-Security-Anti-fraud-Big-Screen">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailendu-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sailendu-kumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/premsainarayan" target="blank"><img src="https://img.shields.io/twitter/follow/premsainarayan?logo=twitter&style=for-the-badge" alt="premsainarayan" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **FUll Stack Datascience course From Almabetter**
 
-- 💬 Ask me about **Python(Numpy, Pandas,Matplotlib & seaborn)**
+- 💬 Ask me about **Python(Numpy, Pandas,Matplotlib & seaborn),SQL,PowerBI & Tableau**
 
 - 📫 How to reach me **prathmesh8485049898@gmail.com **
 
-- ⚡ About me **I am Want to Make AI modules**
+- ⚡ About me **I am **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
