@@ -1,5 +1,5 @@
 <!-- Your Banner Image -->
-![Banner](https://www.ringcentral.com/us/en/blog/wp-content/uploads/2020/07/342907102-Three-applications-for-AI-tech-in-your-business-workflow-Social-GIF-1.gif)
+![Banner](https://github.com/prathmeshpatil98/prathmeshpatil98/blob/main/prathmeshpicgithub.jpg)
 
 <!-- Introduction -->
 <h1 align="center">Namaste... 👋, I'm Prathamesh Patil</h1>
