@@ -2,7 +2,7 @@
 ![Banner](https://github.com/prathmeshpatil98/prathmeshpatil98/blob/main/prathmeshpicgithub.jpg)
 
 <!-- Introduction -->
-<h1 align="center">Namaste... 👋, I'm Prathamesh Patil</h1>
+<h1 align="center">Namaste... 👋, Have a Good day</h1>
 <h3 align="center">A passionate Artificial Intelligence and Data Science enthusiast.</h3>
 
 <!-- Profile Image -->
