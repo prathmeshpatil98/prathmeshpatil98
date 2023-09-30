@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Full Stack Data Science course From Almabetter**
 
 <!-- Skills -->
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib & Seaborn), SQL, PowerBI & Tableau**
+- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib & Seaborn), SQL, PowerBI & Tableau , Statistics **
 
 <!-- Contact Information -->
 - 📫 How to reach me **prathmesh8485049898@gmail.com**
