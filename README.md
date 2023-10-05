@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/prathmeshpatil98/" target="_blank"><img src="https://img.shields.io/badge/linkedin-prathmeshpatil98/-blue?logo=linkedin&style=for-the-badge" alt="prathmeshpatil98/" /></a> </p>
 
 <!-- Learning and Expertise -->
-- 🌱 I’m currently learning **Full Stack Data Science course From Almabetter**
+- 🌱 I’m currently learning **Full Stack Data Science & AI course From Almabetter**
 
 <!-- Skills -->
 - 💬 Ask me about **Python (Numpy, Pandas, Matplotlib & Seaborn), SQL, PowerBI & Tableau , Statistics**
