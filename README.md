@@ -24,7 +24,7 @@
 - 📫 How to reach me **prathmesh8485049898@gmail.com**
 
 <!-- About Me -->
-- ⚡ About me: **I am passionate about leveraging AI and data science to solve real-world problems.**
+- ⚡ About me: **I am passionate about leveraging AI and data science to solve real-world problems in Industry's.**
 
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
