@@ -15,13 +15,13 @@
 <p align="left"> <a href="https://www.linkedin.com/in/prathmeshpatil98/" target="_blank"><img src="https://img.shields.io/badge/linkedin-prathmeshpatil98/-blue?logo=linkedin&style=for-the-badge" alt="prathmeshpatil98/" /></a> </p>
 
 <!-- Learning and Expertise -->
-- 🌱 I’m currently learning **Full Stack Data Science & AI course From Almabetter**
+- 🌱  **Full Stack Data Science & AI course From Almabetter**
 
 <!-- Skills -->
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib & Seaborn), SQL, PowerBI & Tableau , Statistics**
+- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib & Seaborn), SQL, PowerBI & Tableau , Statistics and machinne Learning**
 
 <!-- Contact Information -->
-- 📫 How to reach me **prathmesh8485049898@gmail.com**
+- 📫 How to reach me **prthmeshpatil98@gmail.com**
 
 <!-- About Me -->
 - ⚡ About me: **I am passionate about leveraging AI and data science to solve real-world problems in Industry's.**
