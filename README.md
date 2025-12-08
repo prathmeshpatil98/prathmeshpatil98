@@ -1,9 +1,9 @@
 <!-- ========================== -->
 <!--        BANNER IMAGE       -->
 <!-- ========================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/prathmeshpatil98/prathmeshpatil98/blob/main/prathmeshpicgithub.jpg" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Prathamesh Patil</h1>
 <h3 align="center">Agentic AI Engineer • GenAI Systems • Autonomous Agents • AI Voice Agents • AI Automation</h3>
