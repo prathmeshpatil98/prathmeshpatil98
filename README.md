@@ -9,7 +9,7 @@
 <h3 align="center">Agentic AI Engineer • GenAI Systems • Autonomous Agents • AI Voice Agents • AI Automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prathmeshpatil98/" target="_blank">
+  <a href="https://www.linkedin.com/in/prathmeshpatil9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:prthmeshpatil98@gmail.com">
